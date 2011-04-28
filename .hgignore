@@ -1,0 +1,8 @@
+syntax: glob
+*.o
+*.swp
+codegen/tests/test
+codegen/tests/sync_test
+*.aux
+*.log
+*.pdf
